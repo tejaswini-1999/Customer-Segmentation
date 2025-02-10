@@ -12,7 +12,7 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 - Analyze customer trends to identify spending patterns and optimize marketing campaigns.  
 - Develop predictive models for understanding customer preferences and future behavior.  
 - Reduce dimensionality using PCA to improve model efficiency and interpretability.  
-- Visualize customer clusters** to derive meaningful business insights.  
+- Visualize customer clusters to derive meaningful business insights.  
 <br><br>
 
 
