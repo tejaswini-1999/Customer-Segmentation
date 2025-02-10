@@ -3,9 +3,7 @@
 
 
 ## 📌 Overview  
-Customer behavior is constantly evolving, making it crucial for businesses to **segment their audience** effectively and analyze purchasing trends.  
-This project applies machine learning techniques to segment customers based on spending patterns, demographics, and shopping behavior.  
-By leveraging clustering and regression models, the project provides actionable insights to improve marketing strategies and enhance customer engagement.  
+Customer behavior is constantly evolving, making it crucial for businesses to **segment their audience** effectively and **analyze purchasing trends**. This project applies **machine learning techniques** to segment customers based on spending patterns, demographics, and shopping behavior. By leveraging **clustering and regression models**, the project provides actionable insights to improve marketing strategies and enhance customer engagement.
 <br><br>
 
 
@@ -62,12 +60,12 @@ By leveraging clustering and regression models, the project provides actionable 
 <br><br>
 
 ## 📢 Contributors
-Tejaswini Kshirsagar <br>
-Minita Joshee <br>
-Neha Bharambe <br>
-Pranit Patil
+- Tejaswini Kshirsagar
+- Minita Joshee
+- Neha Bharambe
+- Pranit Patil
 
 ## 🔗 References
-Customer Segmentation Dataset <br>
-Machine Learning for Business Intelligence <br>
-Clustering & Regression Techniques for Consumer Analysis
+- Customer Segmentation Dataset
+- Machine Learning for Business Intelligence
+- Clustering & Regression Techniques for Consumer Analysis
