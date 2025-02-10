@@ -13,7 +13,7 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 - Develop predictive models for understanding customer preferences and future behavior.  
 - Reduce dimensionality using PCA to improve model efficiency and interpretability.  
 - Visualize customer clusters to derive meaningful business insights.  
-<br><br>
+<br>
 
 
 ## 📂 Project Components  
@@ -41,7 +41,7 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 ### 4. Comparative Analysis of Models
 - Compared regression models for predicting customer spending trends.  
 - Evaluated clustering models to determine the best segmentation approach.  
-<br><br>
+<br>
 
 
 ## 🚀 Technologies Used  
@@ -49,7 +49,7 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 - Machine Learning Models (XGBoost, Random Forest, K-Means, DBSCAN, PCA)
 - Data Preprocessing & Feature Engineering
 - Jupyter Notebook for Analysis
-<br><br>
+<br>
 
 
 ## 📜 Key Insights & Business Impact  
@@ -57,13 +57,15 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 - Improved sales forecasting by predicting customer spending behavior.  
 - Personalized promotions using machine learning-driven segmentation.  
 - Reduced operational inefficiencies by targeting high-value customers effectively.  
-<br><br>
+<br>
 
 ## 📢 Contributors
 - Tejaswini Kshirsagar
 - Minita Joshee
 - Neha Bharambe
 - Pranit Patil
+<br>
+
 
 ## 🔗 References
 - Customer Segmentation Dataset
