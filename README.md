@@ -61,7 +61,6 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 
 ## 📢 Contributors
 - Tejaswini Kshirsagar
-- Minita Joshee
 - Neha Bharambe
 - Pranit Patil
 <br>
